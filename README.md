@@ -11,7 +11,7 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/> 
 </div>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=icceey&show_icons=true&count_private=true)
+![Icceey's github stats](https://github-readme-stats.vercel.app/api?username=icceey&show_icons=true&count_private=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icceey&count_private=true&hide=HTML)
 

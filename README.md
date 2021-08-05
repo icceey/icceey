@@ -1,4 +1,4 @@
-### Hi there,I'm [icceey](https://github.com/icceey) 👋, a student from China.
+### Hi there,I'm [icceey](https://github.com/icceey) 👋, a developer from China.
 
 <div>
     <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/> 

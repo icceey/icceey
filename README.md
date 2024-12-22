@@ -1,5 +1,6 @@
-### Hi there,I'm [icceey](https://github.com/icceey) 👋, a developer from China.
+### Hi there, I'm [icceey](https://github.com/icceey) 👋
 
-![Icceey's github stats](https://github-readme-stats.vercel.app/api?username=icceey&show_icons=true&count_private=true&include_all_commits=true)
+🤔emmmm...
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icceey&count_private=true&hide=HTML,Java)
+![Icceey's github stats](https://github-readme-stats.vercel.app/api?username=icceey&include_orgs=true&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icceey&include_orgs=true&count_private=true&size_weight=0.5&count_weight=0.5&hide=HTML,Java)
